@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Pantograph';
+    src: url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph/Pantograph-Bold.woff2') format('woff2'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph/Pantograph-Bold.woff') format('woff'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph/Pantograph-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pantograph';
+    src: url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph/Pantograph-Light.woff2') format('woff2'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph/Pantograph-Light.woff') format('woff'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph/Pantograph-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pantograph';
+    src: url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph/Pantograph-Regular.woff2') format('woff2'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph/Pantograph-Regular.woff') format('woff'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph/Pantograph-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pantograph';
+    src: url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph/Pantograph-Medium.woff2') format('woff2'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph/Pantograph-Medium.woff') format('woff'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph/Pantograph-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pantograph';
+    src: url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph/Pantograph-SemiBold.woff2') format('woff2'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph/Pantograph-SemiBold.woff') format('woff'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph/Pantograph-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}

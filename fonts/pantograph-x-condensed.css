@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Pantograph X Condensed';
+    src: url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-x-condensed/PantographXCondensed-Light.woff2') format('woff2'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-x-condensed/PantographXCondensed-Light.woff') format('woff'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-x-condensed/PantographXCondensed-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pantograph X Condensed';
+    src: url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-x-condensed/PantographXCondensed-Regular.woff2') format('woff2'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-x-condensed/PantographXCondensed-Regular.woff') format('woff'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-x-condensed/PantographXCondensed-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pantograph X Condensed';
+    src: url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-x-condensed/PantographXCondensed-SemiBold.woff2') format('woff2'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-x-condensed/PantographXCondensed-SemiBold.woff') format('woff'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-x-condensed/PantographXCondensed-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pantograph X Condensed';
+    src: url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-x-condensed/PantographXCondensed-Medium.woff2') format('woff2'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-x-condensed/PantographXCondensed-Medium.woff') format('woff'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-x-condensed/PantographXCondensed-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pantograph X Condensed';
+    src: url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-x-condensed/PantographXCondensed-Bold.woff2') format('woff2'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-x-condensed/PantographXCondensed-Bold.woff') format('woff'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-x-condensed/PantographXCondensed-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}

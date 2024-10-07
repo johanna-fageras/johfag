@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Pantograph Expanded';
+    src: url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-expanded/PantographExpanded-Light.woff2') format('woff2'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-expanded/PantographExpanded-Light.woff') format('woff'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-expanded/PantographExpanded-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pantograph Expanded';
+    src: url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-expanded/PantographExpanded-Bold.woff2') format('woff2'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-expanded/PantographExpanded-Bold.woff') format('woff'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-expanded/PantographExpanded-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pantograph Expanded';
+    src: url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-expanded/PantographExpanded-Medium.woff2') format('woff2'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-expanded/PantographExpanded-Medium.woff') format('woff'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-expanded/PantographExpanded-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pantograph Expanded';
+    src: url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-expanded/PantographExpanded-Regular.woff2') format('woff2'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-expanded/PantographExpanded-Regular.woff') format('woff'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-expanded/PantographExpanded-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pantograph Expanded';
+    src: url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-expanded/PantographExpanded-SemiBold.woff2') format('woff2'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-expanded/PantographExpanded-SemiBold.woff') format('woff'),
+        url('https://fontbase.fra1.cdn.digitaloceanspaces.com/colophon/pantograph-expanded/PantographExpanded-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
